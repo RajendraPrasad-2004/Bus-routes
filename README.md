@@ -83,9 +83,9 @@ npm start
 }
 ```
 <img width="1284" height="500" alt="image" src="https://github.com/user-attachments/assets/5c8f48df-1f58-4738-a4db-b4aa4b7c6c96" /> 
-                                                     **Login Page**
+                                                     ### <B>Admin Panel</B>
 <img width="2742" height="600" alt="image" src="https://github.com/user-attachments/assets/6589c3c7-6ea5-4c89-b730-f3600cdaf039" />
-                                                    **Admin Panel**
+                                                    ### <B>Admin Panel</B>
 
 
 

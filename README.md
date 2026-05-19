@@ -82,9 +82,10 @@ npm start
   "stops": ["Chittoor", "Vellore"]
 }
 ```
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5c8f48df-1f58-4738-a4db-b4aa4b7c6c96" /> 
-**### Login Page**
-<img width="2742" height="500" alt="image" src="https://github.com/user-attachments/assets/6589c3c7-6ea5-4c89-b730-f3600cdaf039" />
+<img width="1284" height="500" alt="image" src="https://github.com/user-attachments/assets/5c8f48df-1f58-4738-a4db-b4aa4b7c6c96" /> 
+                                                     **Login Page**
+<img width="2742" height="600" alt="image" src="https://github.com/user-attachments/assets/6589c3c7-6ea5-4c89-b730-f3600cdaf039" />
+                                                    **Admin Panel**
 
 
 

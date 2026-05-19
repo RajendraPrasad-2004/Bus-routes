@@ -82,7 +82,7 @@ npm start
   "stops": ["Chittoor", "Vellore"]
 }
 ```
-<img width="1284" height="1280" alt="image" src="https://github.com/user-attachments/assets/5c8f48df-1f58-4738-a4db-b4aa4b7c6c96" /> #Login Page
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5c8f48df-1f58-4738-a4db-b4aa4b7c6c96" /> #Login Page
 
 
 ### GET /buses/search — Response
